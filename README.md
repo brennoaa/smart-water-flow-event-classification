@@ -5,7 +5,7 @@ This repository provides a dataset and a trained MLP-based model for non-intrusi
 
 ## Objective
 
-The objective of this work is to classify water consumption patterns based on sensor data, using Machine Learning techniques and signal preprocessing methods.
+The objective of this work is to classify water consumption patterns based on smart sensor data, using Machine Learning techniques and signal preprocessing methods.
 
 ---
 
