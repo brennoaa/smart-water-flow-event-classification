@@ -1,9 +1,5 @@
-# smart-water-flow-event-classification
+# Modelling individual residential water uses using machine learning algorithms 
 This repository provides a dataset and a trained MLP-based model for non-intrusive classification of water consumption events from flow sensor time series, including preprocessing components and evaluation tools to support reproducible research.The files correspond to the final model trained after expanding the training dataset.
-
-# Intelligent Water Consumption Event Classification System
-
-This repository contains the trained model and dataset used for classifying water consumption events from flow time series data using Artificial Neural Networks (MLP).
 
 ---
 
@@ -64,6 +60,7 @@ pip install tensorflow scikit-learn numpy joblib
 
 ### 2. Place everything in a folder:
 
+```bash
 project/
 │
 ├── model.h5
