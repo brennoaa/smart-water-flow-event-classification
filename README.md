@@ -30,7 +30,7 @@ A Multilayer Perceptron (MLP) neural network was used with the following archite
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 The model is evaluated using:
 
@@ -41,7 +41,7 @@ The model is evaluated using:
 
 ---
 
-## 📦 Project Files
+## Project Files
 
 - `modelo.h5` → trained model  
 - `scaler.pkl` → data normalization  
@@ -52,7 +52,7 @@ The model is evaluated using:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
