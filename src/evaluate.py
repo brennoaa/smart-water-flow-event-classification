@@ -37,8 +37,8 @@ y_pred = np.argmax(y_pred_probs, axis=1)
 # =========================
 # REPORT
 # =========================
-print("\nRelatório de Classificação:")
+print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
 
-print("\nMatriz de Confusão:")
+print("\nConfusion Matrix:")
 print(confusion_matrix(y_test, y_pred))
