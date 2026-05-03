@@ -69,6 +69,7 @@ project/
 ├── X_test.npy
 ├── y_test.npy
 ├── evaluate.py
+```
 
 ### 3. Run evaluate.py
 
