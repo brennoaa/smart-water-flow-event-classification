@@ -13,7 +13,7 @@ The objective of this work is to classify water consumption patterns based on sm
 
 A Multilayer Perceptron (MLP) neural network was used with the following architecture:
 
-- Input layer with 5 features: (i) the duration of the event, (ii) the median flow rate of the event, (iii) the flow rate decreasing time, the number of repetitions of the predominant event in the signal and (v) Number of times the event was divided into different samples.
+- Input layer with 5 features: (i) the duration of the event, (ii) the median flow rate of the event, (iii) the flow rate decreasing time, (iv) the number of repetitions of the predominant event in the signal and (v) Number of times the event was divided into different samples.
 - Dense layer with 32 neurons (ReLU)  
 - Batch Normalization  
 - Dropout (0.2)  
